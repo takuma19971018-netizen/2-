@@ -1,0 +1,5 @@
+# 問題集の写真は著作物のため公開リポジトリに入れない（Google Drive 等で共有する）
+data/raw_photos/*
+!data/raw_photos/README.md
+*.xlsx
+__pycache__/
